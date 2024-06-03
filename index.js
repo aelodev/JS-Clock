@@ -24,40 +24,40 @@ document.addEventListener('DOMContentLoaded', function () {
         let mm = date.getMonth();
 
         switch (mm) {
-            case 1:
+            case 0:
                 mm = 'January';
                 break;
-            case 2:
+            case 1:
                 mm = 'February';
                 break;
-            case 3:
+            case 2:
                 mm = 'March';
                 break;
-            case 4:
+            case 3:
                 mm = 'April';
                 break;
-            case 5:
+            case 4:
                 mm = 'May';
                 break;
-            case 6:
+            case 5:
                 mm = 'June';
                 break;
-            case 7:
+            case 6:
                 mm = 'July';
                 break;
-            case 8:
+            case 7:
                 mm = 'August';
                 break;
-            case 9:
+            case 8:
                 mm = 'September';
                 break;
-            case 10:
+            case 9:
                 mm = 'October';
                 break;
-            case 11:
+            case 10:
                 mm = 'November';
                 break;
-            case 12:
+            case 11:
                 mm = 'December';
                 break;
             default:
