@@ -26,7 +26,7 @@ The application shows the current time in hours, minutes, and seconds, along wit
 
 ## Developed By
 
-This project was developed by Alejandro Lucena, aka Lucenabo.
+This project was developed by Alejandro Lucena, aka aelodev.
 
 ## Credits
 
